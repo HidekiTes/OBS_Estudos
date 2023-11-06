@@ -11,11 +11,28 @@
             "id": "d389efdcaccbb37b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.23 - Introdução ao Try e Except para capturar erros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81c9e5047dabcf85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md"
+              }
             }
           }
         ]
@@ -138,43 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d389efdcaccbb37b",
+  "active": "81c9e5047dabcf85",
   "lastOpenFiles": [
-    "0 - Index Estudos/Anotações de Linux.md",
-    "0 - Index Estudos/(Index) Python.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.4.3 - Como escrever seu primeiro programa JavaScript.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.4.1 - Como utilizar o console de desenvolvimento JavaScript.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.4 - Como rodar JavaScript.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.3.7 - Mudanças no ES6 - Rest-Spread e Template Literals.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.3.6 - Mudanças no ES6 - Let-Const e Promises.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.3.5 - Mudanças no ES6 - Classes e Destructuring.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.3.4 - Mudanças no ES6 - Babel e Seta _Gorda_.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.3.4 - Mudanças no ES6 - Babel e Seta Gorda.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.3.3 - JSON e outras coisas.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.3.2 - ECMAScript 5 em detalhes.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.3.1 - ECMAScript 1 a 4.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.3 - Versões do JavaScript.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.2 - A História do JavaScript.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript/JS 1.1 - Introdução a JavaScript.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX EXT13 - Complemento de Código com Random.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX 9 - Calculadora com Loop While.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX 8 - Iteração em Strings com While.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX 7 - Classificação de Nomes.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX 6 - Saudações com Base na Hora.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX 5 - Verificação de Par ou Ímpar.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX 4 - Análise de Dados Pessoais.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX 3 - Exercicio de Programação com If.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX 2 - Calculo de IMC.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/PY_EX 13 - Calculo do Num.1 e Num.2 do CPF.md",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo/JS 1 - Introdução a JavaScript",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy",
-    "1 - Estudos/JS Estudos/Códigos de JS",
-    "1 - Estudos/JS Estudos/Capitulos de Estudo",
-    "1 - Estudos/PY Estudos",
-    "1 - Estudos/Linux Estudos",
-    "1 - Estudos/JS Estudos",
-    "1 - Estudos/Excel Estudos",
-    "1 - Estudos"
+    "1_Codigos/Cod_Python/Ex/13_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/13_EX_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/12_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/11_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/10_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/09_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/08_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/07_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/06_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/05_Exercicio.py",
+    "1_Codigos/Cod_Python/Ex/04_Exercicio.py",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.3 - Valores padrão para parâmetros em funções Pyhton+ NoneType e None.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.2 - Argumentos nomeados e argumentos posicionais (não nomeados)em funções.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.1 - Introdução às funçoes Python - def defere uma função.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.23 - Introdução ao Try e Except para capturar erros.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.22 - Fatiamento de Strings e a Função Len.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.20 - Interpolação básica de strings.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.19 - Operadores in e not in.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.17 - Operador Lógico \"or\".md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.21 - Formatação básica de Strings.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.18 - Operador Lógico \"not\".md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.16 - Operador Lógico \"and\".md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.15 - Operadores de Comparação.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.14 - Introdução aos blocos de codigo if  else  elif.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.13 - Usando a funçao input para coletar dados do usuario.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.12 - Formatação de Strings com o método format.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.11 - Formatação de Strings com f-strings.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.10 - Precedência entre os operadores aritméticos.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.9 - Concatenação (+) e repetição (asterisco) com operadores aritméticos.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.8 - Introdução a Operadores Aritméticos.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.7 - Introdução a variáveis.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.6 - Conversão de tipos (Coerção).md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.5 - Tipos de Dados - Bool.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.4  - Tipos de Dados - Int - Float e suas propriedades + TypeOf.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.3 - Tipos de Dados - Str e suas propriedades.md"
   ]
 }
