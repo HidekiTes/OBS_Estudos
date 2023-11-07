@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c09e314ef58b90ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.1 - Introdução às funçoes Python - def defere uma função.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ba54d44df2803ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.7 - *args para quantidade de argumentos não nomeadosvariáveis (Parte 2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68f95d3b8daba130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.10 - Introducao ao tipo de dados dict - Dicionários em Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md",
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.10 - Introducao ao tipo de dados dict - Dicionários em Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md",
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.10 - Introducao ao tipo de dados dict - Dicionários em Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md"
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.10 - Introducao ao tipo de dados dict - Dicionários em Python.md"
               }
             }
           }
@@ -159,43 +195,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81c9e5047dabcf85",
+  "active": "68f95d3b8daba130",
   "lastOpenFiles": [
-    "1_Codigos/Cod_Python/Ex/13_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/13_EX_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/12_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/11_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/10_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/09_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/08_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/07_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/06_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/05_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/04_Exercicio.py",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.3 - Valores padrão para parâmetros em funções Pyhton+ NoneType e None.md",
+    "1_Codigos/Codigos_PY/venv/pyvenv.cfg",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/__pycache__/_virtualenv.cpython-311.pyc",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/__pycache__",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/pip-22.3.1.virtualenv",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/top_level.txt",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/entry_points.txt",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/WHEEL",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/RECORD",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/METADATA",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/LICENSE.txt",
+    "1_Codigos/Codigos_PY/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/INSTALLER",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.9 - Closure e Funções que retornam outras funções.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.10 - Introducao ao tipo de dados dict - Dicionários em Python.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.8 - Higher Order Functions - Funções de Primeira Classe.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.7 - *args para quantidade de argumentos não nomeadosvariáveis (Parte 2).md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.6 - *args para quantidade de argumentos não nomeadosvariáveis.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.5 - Retorno de valores das funções (return).md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.2 - Argumentos nomeados e argumentos posicionais (não nomeados)em funções.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.1 - Introdução às funçoes Python - def defere uma função.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.23 - Introdução ao Try e Except para capturar erros.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.22 - Fatiamento de Strings e a Função Len.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.20 - Interpolação básica de strings.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.19 - Operadores in e not in.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.17 - Operador Lógico \"or\".md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.21 - Formatação básica de Strings.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.18 - Operador Lógico \"not\".md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.16 - Operador Lógico \"and\".md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.15 - Operadores de Comparação.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.14 - Introdução aos blocos de codigo if  else  elif.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.13 - Usando a funçao input para coletar dados do usuario.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.12 - Formatação de Strings com o método format.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.11 - Formatação de Strings com f-strings.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.10 - Precedência entre os operadores aritméticos.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.9 - Concatenação (+) e repetição (asterisco) com operadores aritméticos.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.8 - Introdução a Operadores Aritméticos.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.7 - Introdução a variáveis.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.6 - Conversão de tipos (Coerção).md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.5 - Tipos de Dados - Bool.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.4  - Tipos de Dados - Int - Float e suas propriedades + TypeOf.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.3 - Tipos de Dados - Str e suas propriedades.md"
+    "1 - Estudos/PY Estudos/PY. Udemy - Capitulo 1 (Index).md",
+    "1 - Estudos/PY Estudos/PY. Udemy - Exercicios (Index).md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.EXT13 - Complemento de Código com Random.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.13 - Calculo do Num.1 e Num.2 do CPF.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.12 - Crie uma lista de compras com listas.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.11 - Exiba os indices da lista.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.10 - Jogo da palavra secreta.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.9 - Calculadora com Loop While.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.8 - Iteração em Strings com While.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.7 - Classificação de Nomes.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.6 - Saudações com Base na Hora.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.5 - Verificação de Par ou Ímpar.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.4 - Análise de Dados Pessoais.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.3 - Exercicio de Programação com If.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.2 - Calculo de IMC.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 1/PY_EX 1.1 - Atribuição de valores.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.2 - Crie funções que duplicam, triplicam e quadruplicam.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.1 - Exercícios com funções.md"
   ]
 }
