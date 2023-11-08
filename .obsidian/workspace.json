@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+                "file": "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.4  - Encontre o primeiro duplicado considerando a segunda ocorrência.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+                "file": "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.4  - Encontre o primeiro duplicado considerando a segunda ocorrência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+                "file": "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.4  - Encontre o primeiro duplicado considerando a segunda ocorrência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md"
+                "file": "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.4  - Encontre o primeiro duplicado considerando a segunda ocorrência.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "c09e314ef58b90ba",
   "lastOpenFiles": [
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+    "1_Codigos/Cod_Python/Ex/Ex_Cap_2/04_Exercicio.py",
+    "1_Codigos/Cod_Python/Aula_Cap_2/23_aula.py",
+    "1_Codigos/Cod_Python/Aula_Cap_2/22_aula.py",
+    "1_Codigos/Cod_Python/Aula_Cap_2/21_aula.py",
+    "1_Codigos/Cod_Python/Aula_Cap_2/20_aula.py",
+    "1_Codigos/Cod_Python/Aula_Cap_2/19_aula.py",
+    "1_Codigos/Cod_Python/Aula_Cap_2/18_aula.py",
+    "1_Codigos/Cod_Python/Aula_Cap_2/17_aula.py",
+    "1_Codigos/Cod_Python/Aula_Cap_2/16_aula.py",
     "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.3 - Sistema de Perguntas e Respostas.md",
-    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.2 - Crie funções que duplicam, triplicam e quadruplicam.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.4  - Encontre o primeiro duplicado considerando a segunda ocorrência.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.23 - Introdução a List comprehension em Python.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.15 - Introdução ao tipo set em Python (conjuntos) 1 1 1 1 1 1 1 1.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.22 - Empacotamento e desempacotamento de dicionarios.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.21 - Funções lambda complexas.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.20 - Introdução a função lambda + list.sort e sorted.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.19 - Exemplo do uso de sets.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.18 - Operadores importantes para o tipo set.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.17 - Operadores importantes para o tipo set.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.16 - Peculiaridades do tipo mutável set em Python.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.15 - Introdução ao tipo set em Python (conjuntos).md",
+    "1_Codigos/Cod_Python/19_aula.py",
+    "1_Codigos/Cod_Python/18_aula copy.py",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+    "1 - Estudos/PY Estudos/Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.2 - Crie funções que duplicam, triplicam e quadruplicam.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.14 - (Parte 2) Métodos úteis nos dicionários Python.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.13 - Shallow copy vs Deep Copy em dados mutáveis Python.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.12 - (Parte 1) Métodos úteis nos dicionários Python.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.11 - Manipulando chaves e valores em dicionários.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.10 - Introducao ao tipo de dados dict - Dicionários em Python.md",
-    "1_Codigos/Cod_Python/Aula_Cap_2/15_aula.py",
-    "1_Codigos/Cod_Python/Aula_Cap_2/14_aula copy.py",
-    "1_Codigos/Cod_Python/Ex/Ex_Cap_2/03_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/Ex_Cap_2/02_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/Ex_Cap_2/01_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/Ex_Cap_1/13_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/Ex_Cap_1/13_EX_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/Ex_Cap_1/12_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/Ex_Cap_1/11_Exercicio.py",
-    "1_Codigos/Cod_Python/Ex/Ex_Cap_1/10_Exercicio.py",
     "0 - Index Estudos/(Index) Python.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.14 - Introdução aos blocos de codigo if  else  elif.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.1 - Introdução às funçoes Python - def defere uma função.md",
-    "PY. Udemy 1.14 - Introdução aos blocos de codigo if else elif.md",
-    "PY. Udemy - Capitulo 1 (Index).md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.52 - Operação ternária com Python (condicional de uma linha).md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.51 - Desempacotamento em chamadas de Métodos e Funções.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.50 - Lista de listas e seus Indices.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.49 - Split, join e strip são métodos muito úteis da str.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.48 - Imprecisão dos núemros de ponto flutuante + round e decimal.Decimal.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.47 - Enumerate para enumerar valores de iteráveis (pegar indices).md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.46 - Tipo tuple.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.45 - Introdução ao empacotamento e desempacotamento.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.44 - For in com tipo list.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.43 - Cuidados com tipos de dados mutáveis - list e copy.md"
+    "PY. Udemy 1.14 - Introdução aos blocos de codigo if else elif.md"
   ]
 }
