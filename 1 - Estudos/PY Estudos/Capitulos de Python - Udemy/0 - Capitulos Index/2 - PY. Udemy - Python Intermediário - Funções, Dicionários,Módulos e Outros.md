@@ -1,0 +1,17 @@
+## Aulas 1 a 10
+[[PY_EX 2.1 - Exercícios com funções]]
+[[PY_EX 2.2 - Crie funções que duplicam, triplicam e quadruplicam]]
+[[PY_EX 2.3 - Sistema de Perguntas e Respostas]]
+[[PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global]]
+[[PY. Udemy 2.5 - Retorno de valores das funções (return)]]
+[[PY. Udemy 2.6 - *args para quantidade de argumentos não nomeadosvariáveis]]
+[[PY. Udemy 2.7 - *args para quantidade de argumentos não nomeadosvariáveis (Parte 2)]]
+[[PY. Udemy 2.8 - Higher Order Functions - Funções de Primeira Classe]]
+[[PY. Udemy 2.9 - Closure e Funções que retornam outras funções]]
+[[PY. Udemy 2.10 - Introducao ao tipo de dados dict - Dicionários em Python]]
+## Aulas 11 a 20
+[[PY. Udemy 2.11 - Manipulando chaves e valores em dicionários]]
+[[PY. Udemy 2.12 - (Parte 1) Métodos úteis nos dicionários Python]]
+[[PY. Udemy 2.13 - Shallow copy vs Deep Copy em dados mutáveis Python]]
+[[PY. Udemy 2.14 - (Parte 2) Métodos úteis nos dicionários Python]]
+[[PY. Udemy 2.15 - Introdução ao tipo set em Python (conjuntos)]]

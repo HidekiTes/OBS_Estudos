@@ -39,3 +39,8 @@ pessoa = {
 # print(pessoa, type(pessoa))
 print(pessoa['nome'])
 print(pessoa['sobrenome'])
+
+print()
+
+for chave in pessoa:
+    print(chave, pessoa[chave])
