@@ -2,7 +2,7 @@
 Exercicio - Encontre o primeiro duplicado considerando a segunda
 ocorrência
 
-rie uma função que encontra o primeiro duplicado considerando o segundo
+Crie uma função que encontra o primeiro duplicado considerando o segundo
 número como a duplicação. Retorne a duplicação considerada.
 Requisitos:
     A ordem do número duplicado é considerada a partir da segunda
