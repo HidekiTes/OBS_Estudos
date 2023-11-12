@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "02e7f12d2fe6218e",
+    "type": "split",
+    "children": [
+      {
+        "id": "89afe92ed48830c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f072d524c31118a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "60ae97afe553006e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f86dcdf3de9f7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e67f5599855acd1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f540d41d10a9b96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65f88d45877a15f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88a0c468f26b7164",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "dcb1ccb5fa8546b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a474a4fe72b4e39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42aff29bcd8ad50b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0c000e3e4e25718",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9f41d7729e6076a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6bd649ddc790f0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "60ae97afe553006e",
+  "lastOpenFiles": [
+    "Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.8 - Some os valores nas listas.md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.7 - Unir listas.md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.6 - Adiando execução de funções.md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.5 - Exercicio 3 em 1.md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.4  - Encontre o primeiro duplicado considerando a segunda ocorrência.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.15 - Introdução ao tipo set em Python (conjuntos) 1 1 1 1 1 1 1 1.md",
+    "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.2 - Crie funções que duplicam, triplicam e quadruplicam.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.59 - Ambientes virtuais em Python (venv).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.XX (38ª cópia).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.58 - Ambientes virtuais em Python (venv).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.57 - Funções recursivas e recursividade.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.56 - Reduce - faz a redução de um iterável em um valor.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.55  - Filter é um filtro funcional.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.54 - Map, partial, GeneratorType e esgotamento de Iterators.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.53 - Groupby - agrupando valores (itertools).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.52 - Combinations, Permutations e Product - Itertools.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.51 - Count é um iterador sem fim (itertools).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.50 - Zip e zip_longest.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.49 - Ordem dos decoradores.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.48 - Decoradores com parâmetros.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.47 - Decoradores em Python (@syntax_sugar).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.46 - Funções decoradoras em geral.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.45 - Variáveis Livres + nonlocal (locals, globals).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.44 - __init__.py é um arquivo de inicialização dos packages em Python.md"
+  ]
+}

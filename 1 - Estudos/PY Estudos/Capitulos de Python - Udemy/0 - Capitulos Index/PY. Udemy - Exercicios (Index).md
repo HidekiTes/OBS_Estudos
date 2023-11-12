@@ -17,3 +17,8 @@
 [[PY_EX 2.1 - Exercícios com funções]]
 [[PY_EX 2.2 - Crie funções que duplicam, triplicam e quadruplicam]]
 [[PY_EX 2.3 - Sistema de Perguntas e Respostas]]
+[[PY_EX 2.4  - Encontre o primeiro duplicado considerando a segunda ocorrência]]
+[[PY_EX 2.5 - Exercicio 3 em 1]]
+[[PY_EX 2.6 - Adiando execução de funções]]
+[[PY_EX 2.7 - Unir listas]]
+[[PY_EX 2.8 - Some os valores nas listas]]
