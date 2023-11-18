@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+                "file": "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+                "file": "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+                "file": "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md"
+                "file": "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md"
               }
             }
           }
@@ -157,31 +157,31 @@
   },
   "active": "60ae97afe553006e",
   "lastOpenFiles": [
-    "Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.9 - Lista de tarefas com desfazer e refazer.md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
     "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.8 - Some os valores nas listas.md",
+    "Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.70 - Positional-Only Parameters e Keyword-Only Arguments.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.69 - Evitando uso de condicionais + guard clause.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.68 - Problema dos parâmetros mutáveis em funções Python.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.40 - Como importar coisas do seu prórpio módulo (ponto de vista do __main__).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.67 - Salvando dados Python em JSON com módulo json.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.66 - os.remove, os.unlink e os.rename - apagando, renomeando e movendo arquivos.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.65 - Modos de abertura de arquivo e encoding com with open.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.64 - with open (context manager) e métodos úteis do TextIOWrapper.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.63 - Criando arquivos com Python + Context Manager with.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.44 - __init__.py é um arquivo de inicialização dos packages em Python.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.48 - Decoradores com parâmetros.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.62 - Criando e usando um requirements.txt.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.61 - Pip - Instalando pacotes e bibliotecas.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.60 - Ativando e desativando o meu ambiente virtual venv.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.59 - Ambientes virtuais em Python (venv).md",
+    "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
     "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.7 - Unir listas.md",
     "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.6 - Adiando execução de funções.md",
     "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.5 - Exercicio 3 em 1.md",
     "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.4  - Encontre o primeiro duplicado considerando a segunda ocorrência.md",
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.15 - Introdução ao tipo set em Python (conjuntos) 1 1 1 1 1 1 1 1.md",
-    "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.2 - Crie funções que duplicam, triplicam e quadruplicam.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.59 - Ambientes virtuais em Python (venv).md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.XX (38ª cópia).md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.58 - Ambientes virtuais em Python (venv).md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.57 - Funções recursivas e recursividade.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.56 - Reduce - faz a redução de um iterável em um valor.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.55  - Filter é um filtro funcional.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.54 - Map, partial, GeneratorType e esgotamento de Iterators.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.53 - Groupby - agrupando valores (itertools).md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.52 - Combinations, Permutations e Product - Itertools.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.51 - Count é um iterador sem fim (itertools).md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.50 - Zip e zip_longest.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.49 - Ordem dos decoradores.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.48 - Decoradores com parâmetros.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.47 - Decoradores em Python (@syntax_sugar).md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.46 - Funções decoradoras em geral.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.45 - Variáveis Livres + nonlocal (locals, globals).md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.44 - __init__.py é um arquivo de inicialização dos packages em Python.md"
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.2 - Crie funções que duplicam, triplicam e quadruplicam.md"
   ]
 }
