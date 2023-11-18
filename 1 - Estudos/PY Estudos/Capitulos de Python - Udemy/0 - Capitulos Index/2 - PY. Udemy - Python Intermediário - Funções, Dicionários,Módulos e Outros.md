@@ -64,7 +64,7 @@
 [[PY. Udemy 2.58 - Ambientes virtuais em Python (venv)]]
 [[PY. Udemy 2.59 - Ambientes virtuais em Python (venv)]]
 [[PY. Udemy 2.60 - Ativando e desativando o meu ambiente virtual venv]]
-## Aulas 61 a
+## Aulas 61 a 70
 [[PY. Udemy 2.61 - Pip - Instalando pacotes e bibliotecas]]
 [[PY. Udemy 2.62 - Criando e usando um requirements.txt]]
 [[PY. Udemy 2.63 - Criando arquivos com Python + Context Manager with]]
