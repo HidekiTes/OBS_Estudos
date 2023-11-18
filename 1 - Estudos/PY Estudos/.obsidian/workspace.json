@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
+                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
+                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
+                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md"
+                "file": "Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md"
               }
             }
           }
@@ -157,10 +157,11 @@
   },
   "active": "60ae97afe553006e",
   "lastOpenFiles": [
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.9 - Lista de tarefas com desfazer e refazer.md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.8 - Some os valores nas listas.md",
+    "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
     "Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.9 - Lista de tarefas com desfazer e refazer.md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.8 - Some os valores nas listas.md",
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.70 - Positional-Only Parameters e Keyword-Only Arguments.md",
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.69 - Evitando uso de condicionais + guard clause.md",
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.68 - Problema dos parâmetros mutáveis em funções Python.md",
@@ -176,7 +177,6 @@
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.61 - Pip - Instalando pacotes e bibliotecas.md",
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.60 - Ativando e desativando o meu ambiente virtual venv.md",
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.59 - Ambientes virtuais em Python (venv).md",
-    "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
     "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.7 - Unir listas.md",
     "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.6 - Adiando execução de funções.md",
     "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.5 - Exercicio 3 em 1.md",

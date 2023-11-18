@@ -1,5 +1,3 @@
-## Estudos de JavaScript
-[[(Index) JavaScript]]
 ## Estudos de Python
 [[(Index) Python]]
 ## Uso de Linux
