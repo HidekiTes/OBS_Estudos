@@ -1,4 +1,7 @@
-# Escopo da classe e de métodos da classe
+'''
+Escopo da classe e de métodos da classe
+'''
+
 class Animal:
     # nome = 'Leão'
 

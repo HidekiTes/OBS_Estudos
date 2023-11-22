@@ -1,5 +1,6 @@
-# Atributos de classe
-
+'''
+Atributos de classe
+'''
 class Pessoa:
     ano_atual = 2022
 

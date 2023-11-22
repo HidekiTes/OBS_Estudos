@@ -16,7 +16,6 @@ print(isinstance(string, str))
 class Pessoa:
     ...
 
-
 p1 = Pessoa('Luiz', 'Otávio')
 p1.nome = 'Luiz'
 p1.sobrenome = 'Otávio'
