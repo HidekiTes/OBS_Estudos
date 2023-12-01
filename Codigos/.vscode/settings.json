@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Cod_Python/Aula_Cap_3/aula_21"
+    ]
+}
