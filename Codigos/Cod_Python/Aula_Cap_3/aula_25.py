@@ -1,13 +1,38 @@
-# Polimorfismo em Python Orientado a Objetos
-# Polimorfismo é o princípio que permite que
-# classes deridavas de uma mesma superclasse
-# tenham métodos iguais (com mesma assinatura)
-# mas comportamentos diferentes.
-# Assinatura do método = Mesmo nome e quantidade
-# de parâmetros (retorno não faz parte da assinatura)
-# Opinião + princípios que contam:
-# Assinatura do método: nome, parâmetros e retorno iguais
-# SO"L"ID
-# Princípio da substituição de liskov
-# Objetos de uma superclasse devem ser substituíveis
-# por objetos de uma subclasse sem quebrar a aplicação.
+'''
+abstractmethod para qualquer método já decorado (@property e setter)
+
+É possível criar @property @property.setter @classmethod
+@staticmethod e métodos normais como abstratos, para isso
+use @abstractmethod como decorator mais interno.
+Foo - Bar são palavras usadas como placeholder
+para palavras que podem mudar na programação.
+'''
+from abc import ABC, abstractmethod
+
+
+class AbstractFoo(ABC):
+    def __init__(self, name):
+        self._name = None
+        self.name = name
+
+    @property
+    def name(self):
+        return self._name
+
+    @name.setter
+    @abstractmethod
+    def name(self, name): ...
+
+
+class Foo(AbstractFoo):
+    def __init__(self, name):
+        super().__init__(name)
+        # print('Sou inútil')
+
+    @AbstractFoo.name.setter
+    def name(self, name):
+        self._name = name
+
+
+foo = Foo('Bar')
+print(foo.name)

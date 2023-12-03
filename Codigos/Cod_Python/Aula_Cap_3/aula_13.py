@@ -1,41 +1,40 @@
-# Encapsulamento (modificadores de acesso: public, protected, private)
-# Python NÃO TEM modificadores de acesso
-# Mas podemos seguir as seguintes convenções
-#   (sem underline) = public
-#       pode ser usado em qualquer lugar
-# _ (um underline) = protected
-#       não DEVE ser usado fora da classe
-#       ou suas subclasses.
-# __ (dois underlines) = private
-#       "name mangling" (desfiguração de nomes) em Python
-#       _NomeClasse__nome_attr_ou_method
-#       só DEVE ser usado na classe em que foi
-#       declarado.
-from functools import partial
+'''
+@property + @setter - getter e setter no modo Pythônico
+
+- como getter
+- p/ evitar quebrar código cliente
+- p/ habilitar setter
+- p/ executar ações ao obter um atributo
+Atributos que começar com um ou dois underlines
+não devem ser usados fora da classe.
+'''
+class Caneta:
+    def __init__(self, cor):
+        # private protected
+        self.cor = cor
+        self._cor_tampa = None
+
+    @property
+    def cor(self):
+        print('ESTOU NO GETTER')
+        return self._cor
+
+    @cor.setter
+    def cor(self, valor):
+        print('ESTOU NO SETTER')
+        self._cor = valor
+
+    @property
+    def cor_tampa(self):
+        return self._cor_tampa
+
+    @cor_tampa.setter
+    def cor_tampa(self, valor):
+        self._cor_tampa = valor
 
 
-class Foo:
-    def __init__(self):
-        self.public = 'isso é público'
-        self._protected = 'isso é protegido'
-        self.__exemplo = 'isso é private'
-
-    def metodo_publico(self):
-        # self._metodo_protected()
-        # print(self._protected)
-        print(self.__exemplo)
-        self.__metodo_private()
-        return 'metodo_publico'
-
-    def _metodo_protected(self):
-        print('_metodo_protected')
-        return '_metodo_protected'
-
-    def __metodo_private(self):
-        print('__metodo_private')
-        return '__metodo_private'
-
-
-f = Foo()
-# print(f.public)
-print(f.metodo_publico())
+caneta = Caneta('Azul')
+caneta.cor = 'Rosa'
+caneta.cor_tampa = 'Azul'
+print(caneta.cor)
+print(caneta.cor_tampa)

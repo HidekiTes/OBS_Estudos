@@ -1,37 +1,25 @@
-# Funções decoradoras e decoradores com classes
+''' 
+Context Manager com função - Criando e Usando gerenciadores de contexto
+'''
 
-def meu_repr(self):
-    class_name = self.__class__.__name__
-    class_dict = self.__dict__
-    class_repr = f'{class_name}({class_dict})'
-    return class_repr
+from contextlib import contextmanager
 
 
-def adiciona_repr(cls):
-    cls.__repr__ = meu_repr
-    return cls
+@contextmanager
+def my_open(caminho_arquivo, modo):
+    try:
+        print('Abrindo arquivo')
+        arquivo = open(caminho_arquivo, modo, encoding='utf8')
+        yield arquivo
+    except Exception as e:
+        print('Ocorreu erro', e)
+    finally:
+        print('Fechando arquivo')
+        arquivo.close()
 
 
-@adiciona_repr
-class Time:
-    def __init__(self, nome):
-        self.nome = nome
-
-
-@adiciona_repr
-class Planeta:
-    def __init__(self, nome):
-        self.nome = nome
-
-
-brasil = Time('Brasil')
-portugal = Time('Portugal')
-
-terra = Planeta('Terra')
-marte = Planeta('Marte')
-
-print(brasil)
-print(portugal)
-
-print(terra)
-print(marte)
+with my_open('aula36.txt', 'w') as arquivo:
+    arquivo.write('Linha 1\n')
+    arquivo.write('Linha 2\n', 123)
+    arquivo.write('Linha 3\n')
+    print('WITH', arquivo)

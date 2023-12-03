@@ -1,39 +1,49 @@
-# Herança simples - Relações entre classes
-# Associação - usa, Agregação - tem
-# Composição - É dono de, Herança - É um
-#
-# Herança vs Composição
-#
-# Classe principal (Pessoa)
-#   -> super class, base class, parent class
-# Classes filhas (Cliente)
-#   -> sub class, child class, derived class
-class Pessoa:
-    cpf = '1234'
+'''
+Composição - Python Orientado a Objetos
 
-    def __init__(self, nome, sobrenome):
+Relações entre classes: associação, agregação e composição
+Composição é uma especialização da agregação.
+Mas nela, quando o objeto "pai" for apagado, todas
+as referências dos objetos filhos também são
+apagadas.
+'''
+class Cliente:
+    def __init__(self, nome):
         self.nome = nome
-        self.sobrenome = sobrenome
+        self.enderecos = []
 
-    def falar_nome_classe(self):
-        print('Classe PESSOA')
-        print(self.nome, self.sobrenome, self.__class__.__name__)
+    def inserir_endereco(self, rua, numero):
+        self.enderecos.append(Endereco(rua, numero))
 
+    def inserir_endereco_externo(self, endereco):
+        self.enderecos.append(endereco)
 
-class Cliente(Pessoa):
-    def falar_nome_classe(self):
-        print('EITA, nem saí da classe CLIENTE')
-        print(self.nome, self.sobrenome, self.__class__.__name__)
+    def listar_enderecos(self):
+        for endereco in self.enderecos:
+            print(endereco.rua, endereco.numero)
 
-
-class Aluno(Pessoa):
-    cpf = 'cpf aluno'
-    ...
+    def __del__(self):
+        print('APAGANDO,', self.nome)
 
 
-c1 = Cliente('Luiz', 'Otávio')
-c1.falar_nome_classe()
-a1 = Aluno('Maria', 'Helena')
-a1.falar_nome_classe()
-print(a1.cpf)
-# help(Cliente)
+class Endereco:
+    def __init__(self, rua, numero):
+        self.rua = rua
+        self.numero = numero
+
+    def __del__(self):
+        print('APAGANDO,', self.rua, self.numero)
+
+
+cliente1 = Cliente('Maria')
+cliente1.inserir_endereco('Av Brasil', 54)
+cliente1.inserir_endereco('Rua B', 6745)
+endereco_externo = Endereco('Av Saudade', 123213)
+cliente1.inserir_endereco_externo(endereco_externo)
+cliente1.listar_enderecos()
+
+del cliente1
+
+
+print(endereco_externo.rua, endereco_externo.numero)
+print('######################## AQUI TERMINA MEU CÓDIGO')

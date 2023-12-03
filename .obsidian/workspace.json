@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fcb7ca3980d39b75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c09e314ef58b90ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "8fc37e6d091d1fdc",
         "type": "tabs",
         "children": [
@@ -152,15 +138,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c09e314ef58b90ba",
+  "active": "362f91f1d0a96b6e",
   "lastOpenFiles": [
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md",
+    "0 - Index Estudos/(Index) Python.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY.Udemy - Introdução a Programação Orientada a Objetos em Python - POO (Classes).md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY..md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/Untitled.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/3 Python - Capitulo 3/Untitled.md",
+    "1 - Estudos/PY Estudos/Untitled.md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/3 Python - Capitulo 3",
+    "1 - Estudos/PY Estudos/3 Python - Capitulo 3",
+    "1 - Estudos/PY Estudos/Untitled",
+    "Codigos/Cod_Python/Ex/Ex_Cap_3/Exercicio_03/__pycache__/banco.cpython-311.pyc",
+    "Codigos/Cod_Python/Ex/Ex_Cap_3/Exercicio_03/__pycache__/pessoas.cpython-311.pyc",
+    "Codigos/Cod_Python/Ex/Ex_Cap_3/Exercicio_03/__pycache__/contas.cpython-311.pyc",
+    "Codigos/Cod_Python/Ex/Ex_Cap_3/Exercicio_03/__pycache__",
+    "Codigos/Cod_Python/Ex/Ex_Cap_3/Exercicio_03/banco.py",
+    "Codigos/Cod_Python/Ex/Ex_Cap_3/Exercicio_03/pessoas.py",
+    "Codigos/Cod_Python/Ex/Ex_Cap_3/Exercicio_03/contas.py",
     "X - Imagens/Pasted image 20231010102159 2.png",
     "X - Imagens/Pasted image 20231006101515.png",
     "X - Imagens/Pasted image 20230926162055.png",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
-    "0 - Index Estudos/(Index) Python.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md",
     "0 - Index Estudos/Anotações de Linux.md",
     "Home - Estudos.md",
     "0 - Index Estudos/(Index) JavaScript.md",
@@ -177,20 +178,6 @@
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.21 - Funções lambda complexas.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.23 - Introdução a List comprehension em Python.md",
     "PY. Udemy 2.23 - 1 1 1 1 1 1 1 1 1 1 1 1 1 (cópia).md",
-    "PY. Udemy 2.23 -.md",
-    "1_Codigos/Cod_Python/aula_59/venv/bin/Activate.ps1",
-    "1_Codigos/Cod_Python/aula_59/venv/bin/activate",
-    "1_Codigos/Cod_Python/aula_59/venv/bin/activate.csh",
-    "1_Codigos/Cod_Python/aula_59/venv/bin/activate.fish",
-    "1_Codigos/Cod_Python/aula_59/venv/lib/python3.11/site-packages/pip-23.2.1.dist-info/RECORD06o2rhsn.tmp",
-    "1_Codigos/Cod_Python/aula_59/venv/lib/python3.11/site-packages/pip-23.2.1.dist-info/REQUESTED",
-    "1_Codigos/Cod_Python/aula_59/venv/lib/python3.11/site-packages/pip-23.2.1.dist-info/INSTALLER",
-    "1_Codigos/Cod_Python/aula_59/venv/bin/pip3.11",
-    "1_Codigos/Cod_Python/aula_59/venv/bin/pip3",
-    "1_Codigos/Cod_Python/aula_59/venv/bin/pip",
-    "PY. Udemy 2.23 - 1 1 1 1 1 1 1 1 1 1 1 1 1.md",
-    "PY. Udemy 2.23 - 1 1 1 1 1 1 1 1 1 1 1 1 (cópia).md",
-    "PY. Udemy 2.23 - 1 1 1 1 1 1 1 1 1 1 1 (cópia).md",
-    "PY. Udemy 2.23 - 1 1 1 1 1 1 1 1 1 1 (cópia).md"
+    "PY. Udemy 2.23 -.md"
   ]
 }

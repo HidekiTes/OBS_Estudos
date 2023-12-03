@@ -19,6 +19,14 @@
             "id": "60ae97afe553006e",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e475e52b3730aa19",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md",
@@ -28,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,8 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60ae97afe553006e",
+  "active": "e475e52b3730aa19",
   "lastOpenFiles": [
+    "Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY.Udemy - Introdução a Programação Orientada a Objetos em Python - POO (Classes).md",
+    "Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY.Udemy - Introdução a Programação Orientada a Objetos em Python.md",
+    "Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY.Udemy -.md",
+    "Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY.Udemy - Introdução.md",
+    "Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3",
     "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
     "Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
     "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.10 - Salvando a lista de tarefas em JSON.md",
@@ -177,11 +191,6 @@
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.61 - Pip - Instalando pacotes e bibliotecas.md",
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.60 - Ativando e desativando o meu ambiente virtual venv.md",
     "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.59 - Ambientes virtuais em Python (venv).md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.7 - Unir listas.md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.6 - Adiando execução de funções.md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.5 - Exercicio 3 em 1.md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.4  - Encontre o primeiro duplicado considerando a segunda ocorrência.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.15 - Introdução ao tipo set em Python (conjuntos) 1 1 1 1 1 1 1 1.md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.2 - Crie funções que duplicam, triplicam e quadruplicam.md"
+    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.7 - Unir listas.md"
   ]
 }

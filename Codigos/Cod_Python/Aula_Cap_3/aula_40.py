@@ -1,22 +1,19 @@
 '''
-Classes decoradoras (Decorator classes)
+Método especial __call__
+callable é algo que pode ser executado com parênteses
+Em classes normais, __call__ faz a instância de uma
+classe "callable".
 '''
 
-class Multiplicar:
-    def __init__(self, multiplicador):
-        self._multiplicador = multiplicador
+class CallMe:
+    def __init__(self, phone):
+        self.phone = phone
 
-    def __call__(self, func):
-        def interna(*args, **kwargs):
-            resultado = func(*args, **kwargs)
-            return resultado * self._multiplicador
-        return interna
+    def __call__(self, nome):
+        print(nome, 'está chamando', self.phone)
+        return 2134
 
 
-@Multiplicar(2)
-def soma(x, y):
-    return x + y
-
-
-dois_mais_quatro = soma(2, 4)
-print(dois_mais_quatro)
+call1 = CallMe('23945876545')
+retorno = call1('Luiz Otávio')
+print(retorno)

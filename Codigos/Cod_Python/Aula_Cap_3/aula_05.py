@@ -1,49 +1,23 @@
 '''
-Mantendo estados dentro da classe
+Escopo da classe e de métodos da classe
 '''
-class Camera:
-    def __init__(self, nome, filmando=False):
+
+class Animal:
+    # nome = 'Leão'
+
+    def __init__(self, nome):
         self.nome = nome
-        self.filmando = filmando
 
-    def filmar(self):
-        if self.filmando:
-            print(f'{self.nome} JÁ está filmando...')
-            return
+        variavel = 'valor'
+        print(variavel)
 
-        print(f'{self.nome} está filmando...')
-        self.filmando = True
+    def comendo(self, alimento):
+        return f'{self.nome} está comando {alimento}'
 
-    def parar_filmar(self):
-        if not self.filmando:
-            print(f'{self.nome} NÃO está filmando...')
-            return
-
-        print(f'{self.nome} está parando de filmar...')
-        self.filmando = False
-
-    def fotografar(self):
-        if self.filmando:
-            print(f'{self.nome} não pode fotografar filmando')
-            return
-
-        print(f'{self.nome} está fotografando...')
+    def executar(self, *args, **kwargs):
+        return self.comendo(*args, **kwargs)
 
 
-c1 = Camera('Canon')
-c2 = Camera('Sony')
-
-c1.filmar()
-c1.filmar()
-c1.fotografar()
-c1.parar_filmar()
-c1.fotografar()
-
-print()
-
-c2.parar_filmar()
-c2.filmar()
-c2.filmar()
-c2.fotografar()
-c2.parar_filmar()
-c2.fotografar()
+leao = Animal(nome='Leão')
+print(leao.nome)
+print(leao.executar('maçã'))

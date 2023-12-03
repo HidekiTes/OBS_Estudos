@@ -1,6 +1,8 @@
+'''
 # (Parte 1) Mixins, Abstração e a união de tudo até aqui
 # (Parte 2) Log, LogFileMixin, LogPrintMixin e a união de tudo até aqui
 # (Parte 3) LogFileMixin e a união de tudo até aqui
+'''
 
 from pathlib import Path
 

@@ -24,3 +24,7 @@
 [[PY_EX 2.8 - Some os valores nas listas]]
 [[PY_EX 2.9 - Lista de tarefas com desfazer e refazer]]
 [[PY_EX 2.10 - Salvando a lista de tarefas em JSON]]
+## Exercicios do Cap. 3
+[[PY_EX 3.1]]
+[[PY_EX 3.2]]
+[[PY_EX 3.3]]
