@@ -1,5 +1,6 @@
 {
   "strictLineBreaks": true,
   "autoConvertHtml": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

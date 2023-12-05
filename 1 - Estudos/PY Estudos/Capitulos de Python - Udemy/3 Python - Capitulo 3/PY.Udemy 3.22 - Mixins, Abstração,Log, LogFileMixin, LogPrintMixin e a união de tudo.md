@@ -1,3 +1,10 @@
+main.py
+``` python
+from .log import Log
+```
+
+log.py
+``` python
 '''
 (Parte 1) Mixins, Abstração e a união de tudo até aqui
 (Parte 2) Log, LogFileMixin, LogPrintMixin e a união de tudo até aqui
@@ -38,3 +45,5 @@ if __name__ == '__main__':
     lf = LogFileMixin()
     lf.log_error('qualquer coisa')
     lf.log_success('Que legal')
+```
+

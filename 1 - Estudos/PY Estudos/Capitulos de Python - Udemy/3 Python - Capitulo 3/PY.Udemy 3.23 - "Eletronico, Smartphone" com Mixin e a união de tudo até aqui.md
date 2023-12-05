@@ -1,3 +1,16 @@
+main.py
+``` python
+from eletronico import Smartphone
+
+galaxy_s = Smartphone('Galaxy S')
+iphone = Smartphone('iPhone')
+
+galaxy_s.ligar()
+iphone.desligar()
+```
+
+eletronico.py
+``` python
 '''
 Eletronico, Smartphone com Mixin e a união de tudo até aqui
 '''
@@ -33,3 +46,4 @@ class Smartphone(Eletronico, LogFileMixin):
         if not self._ligado:
             msg = f'{self._nome} está desligado'
             self.log_error(msg)
+```
