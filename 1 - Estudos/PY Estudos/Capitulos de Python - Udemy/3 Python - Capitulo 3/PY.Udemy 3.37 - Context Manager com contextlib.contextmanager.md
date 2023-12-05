@@ -1,3 +1,4 @@
+``` python
 ''' 
 Context Manager com contextlib.contextmanager
 
@@ -25,3 +26,4 @@ with my_open('aula36.txt', 'w') as arquivo:
     arquivo.write('Linha 2\n', 123)
     arquivo.write('Linha 3\n')
     print('WITH', arquivo)
+```

@@ -1,33 +1,41 @@
 ``` python
 '''
-class - Classes são moldes para criar novos objetos
+Classes abstratas - Abstract Base Class (abc)
 
-As classes geram novos objetos (instâncias) que
-podem ter seus próprios atributos e métodos.
-Os objetos gerados pela classe podem usar seus dados
-internos para realizar várias ações.
-Por convenção, usamos PascalCase para nomes de
-classes.
-
-string = 'Luiz'  # str
-print(string.upper())
-print(isinstance(string, str))
+ABCs são usadas como contratos para a definição
+de novas classes. Elas podem forçar outras classes
+a criarem métodos concretos. Também podem ter
+métodos concretos por elas mesmas.
+@abstractmethods são métodos que não têm corpo.
+As regras para classes abstratas com métodos
+abstratos é que elas NÃO PODEM ser instânciadas
+diretamente.
+Métodos abstratos DEVEM ser implementados
+nas subclasses (@abstractmethod).
+Uma classe abstrata em Python tem sua metaclasse
+sendo ABCMeta.
+É possível criar @property @setter @classmethod
+@staticmethod e @method como abstratos, para isso
+use @abstractmethod como decorator mais interno.
 '''
 
-class Pessoa:
-    ...
+from abc import ABC, abstractmethod
+class Log(ABC):
+    @abstractmethod
+    def _log(self, msg): ...
 
-p1 = Pessoa('Luiz', 'Otávio')
-p1.nome = 'Luiz'
-p1.sobrenome = 'Otávio'
+    def log_error(self, msg):
+        return self._log(f'Error: {msg}')
 
-p2 = Pessoa('Maria', 'Joana')
-p2.nome = 'Maria'
-p2.sobrenome = 'Joana'
+    def log_success(self, msg):
+        return self._log(f'Success: {msg}')
 
-print(p1.nome)
-print(p1.sobrenome)
 
-print(p2.nome)
-print(p2.sobrenome)
+class LogPrintMixin(Log):
+    def _log(self, msg):
+        print(f'{msg} ({self.__class__.__name__})')
+
+
+l = LogPrintMixin()
+l.log_error('Oi')
 ```

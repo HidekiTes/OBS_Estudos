@@ -1,3 +1,4 @@
+``` python
 '''
 Teoria: metaclasses são o tipo das classes
 
@@ -36,3 +37,4 @@ f = Foo()
 # print(isinstance(f, Foo))
 print(type(f))
 print(type(Foo))
+```

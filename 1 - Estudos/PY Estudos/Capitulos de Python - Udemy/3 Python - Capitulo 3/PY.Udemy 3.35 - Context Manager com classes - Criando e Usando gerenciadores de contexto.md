@@ -1,7 +1,7 @@
+``` python
 '''
-Exceptions em context manager com classes
-
 Context Manager com classes - Criando e Usando gerenciadores de contexto
+
 Você pode implementar seus próprios protocolos
 apenas implementando os dunder methods que o
 Python vai usar.
@@ -17,7 +17,7 @@ devem ser implementados.
 O método __exit__ receberá a classe de exceção, a exceção e o
 traceback. Se ele retornar True, exceção no with será
 suprimidas.
-
+#
 Ex:
 with open('aula149.txt', 'w') as arquivo:
     ...
@@ -42,11 +42,12 @@ class MyOpen:
         # print(traceback_)
         # exception_.add_note('Minha nota')
 
-        # return True  - Tratei a exceção
+        # return True  Tratei a exceção
 
 
-with MyOpen('aula149.txt', 'w') as arquivo:
+with MyOpen('aula.txt', 'w') as arquivo:
     arquivo.write('Linha 1\n')
     arquivo.write('Linha 2\n', 123)
     arquivo.write('Linha 3\n')
     print('WITH', arquivo)
+```

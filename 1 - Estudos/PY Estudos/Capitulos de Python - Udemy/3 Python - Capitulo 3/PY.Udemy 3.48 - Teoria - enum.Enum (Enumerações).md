@@ -1,5 +1,6 @@
+``` python
 '''
-Teoria: enum.Enum (Enumerações)
+Teoria: enum.Enum (Enumerações')
 
 Enum -> Enumerações
 Enumerações na programação, são usadas em ocasiões onde temos
@@ -26,3 +27,4 @@ mover('esquerda')
 mover('direita')
 mover('acima')
 mover('abaixo')
+```

@@ -1,3 +1,4 @@
+``` python
 '''
 Exercício com classes
 
@@ -68,3 +69,4 @@ motor_2_0 = Motor('2.0')
 focus.fabricante = ford
 focus.motor = motor_2_0
 print(focus.nome, focus.fabricante.nome, focus.motor.nome)
+```

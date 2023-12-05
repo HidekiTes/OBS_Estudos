@@ -1,4 +1,6 @@
 '''
+DocStrings em funções (Documentação)
+
 DocStrings de várias linhas
 DocStrings em funções 
 Docstrings em class

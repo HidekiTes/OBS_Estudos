@@ -11,6 +11,24 @@
             "id": "362f91f1d0a96b6e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a17980506ac53db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32add48cfb54b715",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -138,12 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "362f91f1d0a96b6e",
+  "active": "32add48cfb54b715",
   "lastOpenFiles": [
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/PY. Udemy - Exercicios (Index).md",
+    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY.Udemy - Introdução a Programação Orientada a Objetos em Python - POO (Classes).md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/1 - PY. Udemy - Iniciando na Programação com Python.md",
     "0 - Index Estudos/(Index) Python.md",
-    "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY.Udemy - Introdução a Programação Orientada a Objetos em Python - POO (Classes).md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY..md",
     "1 - Estudos/PY Estudos/Capitulos de Python - Udemy/0 - Capitulos Index/Untitled.md",

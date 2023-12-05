@@ -1,5 +1,8 @@
 {
     "python.analysis.extraPaths": [
-        "./Cod_Python/Aula_Cap_3/aula_21"
-    ]
+        "./Cod_Python/Aula_Cap_3/aula_21",
+        "./Cod_Python/Aula_Cap_3/aula_22"
+    ],
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.autoImportCompletions": false
 }

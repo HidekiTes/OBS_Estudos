@@ -39,8 +39,12 @@
             "id": "a2cb3918c4c1f6f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.20 - Interpolação básica de strings.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.20 - Interpolação básica de strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.20 - Interpolação básica de strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.20 - Interpolação básica de strings.md"
+              }
             }
           }
         ]
@@ -169,32 +177,33 @@
   },
   "active": "a2cb3918c4c1f6f9",
   "lastOpenFiles": [
-    "Capitulos de Python - Udemy/0 - Capitulos Index/3 - PY.Udemy - Introdução a Programação Orientada a Objetos em Python - POO (Classes).md",
-    "PY.Udemy 3.8.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.14 - Encapsulamento modificadores de acesso - public, protected, private.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.15 - Relações entre classes -  associação, agregação e composição.md",
+    "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.9 - Concatenação (+) e repetição (asterisco) com operadores aritméticos.md",
+    "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.2 - Inclusão de Separadores e função print.md",
+    "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.3 - Tipos de Dados - Str e suas propriedades.md",
+    "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.1 - Interpretador do Python e DocStrings.md",
+    "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.20 - Interpolação básica de strings.md",
+    "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.42 - Concatenando e estendendo listas em Python.md",
+    "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.36 - Introdução ao for  in - estrutura de repetição para coisas finitas.md",
+    "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.15 - Operadores de Comparação.md",
+    "Capitulos de Python - Udemy/1 Python - Capitulo 1/PY. Udemy 1.6 - Conversão de tipos (Coerção).md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.69 - Evitando uso de condicionais + guard clause.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.67 - Salvando dados Python em JSON com módulo json.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.60 - Ativando e desativando o meu ambiente virtual venv.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.50 - Zip e zip_longest.md",
+    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.57 - Funções recursivas e recursividade.md",
     "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.1 - Class - Classes são moldes para criar novos objetos (outra cópia).md",
-    "PY.Udemy 3.1 - Class - Classes são moldes para criar novos objetos (31ª cópia).md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.30 - Notas das exceptions em Python (add_notes, __notes__).md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.29 - Levantando e tratando suas Exceptions (Exceções).md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.28 - Criando Exceptions em Python Orientado a Objetos.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.27 - Polimorfismo em Python Orientado a Objetos - Pt.2.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.26 - Polimorfismo em Python Orientado a Objetos.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.25 - abstractmethod para qualquer método já decorado (@property e setter).md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.2 - Introdução ao método __init__ (inicializador de atributos).md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.4 - Métodos em instâncias de classes Python.md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.3 - Entendendo self em classes Python.md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.5 - Escopo da classe e de métodos da classe.md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.7 - Atributos de classe.md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.11 - method vs @classmethod vs @staticmethod.md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.17 - Composição - Python Orientado a Objetos.md",
     "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.24 - Classes abstratas - Abstract Base Class (abc).md",
     "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.23 - \"Eletronico, Smartphone\" com Mixin e a união de tudo até aqui.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.22 - Mixins, Abstração,Log, LogFileMixin, LogPrintMixin e a união de tudo.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.21 - Herança Múltipla - Python Orientado a Objetos.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.63 - Criando arquivos com Python + Context Manager with.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.8 - Higher Order Functions - Funções de Primeira Classe.md",
-    "Capitulos de Python - Udemy/2 Pyhton - Capitulo 2/PY. Udemy 2.4 - Escopo de funções e módulos em Python + Global.md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.6 - Adiando execução de funções.md",
-    "Exercicios de Python - Udemy/Python - Exercicio Cap. 2/PY_EX 2.5 - Exercicio 3 em 1.md",
-    "Capitulos de Python - Udemy/0 - Capitulos Index/2 - PY. Udemy - Python Intermediário - Funções, Dicionários,Módulos e Outros.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.20 - (Teoria) Herança Múltipla - Python Orientado a Objetos.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.19 - super() e a sobreposição de membros - Python Orientado a Objetos.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.18 - Herança simples - Relações entre classes.md",
-    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.17 - Composição - Python Orientado a Objetos.md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.25 - abstractmethod para qualquer método já decorado (@property e setter).md",
+    "Capitulos de Python - Udemy/3 Python - Capitulo 3/PY.Udemy 3.26 - Polimorfismo em Python Orientado a Objetos.md",
+    "Exercicios de Python - Udemy/Python - Exercicio Cap.3",
     "Capitulos de Python - Udemy/3 Python - Capitulo 3"
   ]
 }

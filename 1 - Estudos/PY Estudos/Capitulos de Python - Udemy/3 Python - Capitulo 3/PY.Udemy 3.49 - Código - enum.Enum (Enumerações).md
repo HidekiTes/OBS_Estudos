@@ -1,7 +1,7 @@
+``` python
 '''
-Teoria: enum.Enum (Enumerações)
+Código: enum.Enum (Enumerações)
 
-Enum -> Enumerações
 Enumerações na programação, são usadas em ocasiões onde temos
 um determinado número de coisas para escolher.
 Enums têm membros e seus valores são constantes.
@@ -18,11 +18,32 @@ membro = Classe(valor), Classe['chave']
 chave = Classe.chave.name
 valor = Classe.chave.value
 '''
-def mover(direcao):
-    print(f'Movendo para {direcao}')
+
+import enum
+
+# Direcoes = enum.Enum('Direcoes', ['ESQUERDA', 'DIREITA'])
 
 
-mover('esquerda')
-mover('direita')
-mover('acima')
-mover('abaixo')
+class Direcoes(enum.Enum):
+    ESQUERDA = enum.auto()
+    DIREITA = enum.auto()
+    ACIMA = enum.auto()
+    ABAIXO = enum.auto()
+
+
+print(Direcoes(1), Direcoes['ESQUERDA'], Direcoes.ESQUERDA)
+print(Direcoes(1).name, Direcoes.ESQUERDA.value)
+
+
+def mover(direcao: Direcoes):
+    if not isinstance(direcao, Direcoes):
+        raise ValueError('Direção não encontrada')
+
+    print(f'Movendo para {direcao.name} ({direcao.value})')
+
+
+mover(Direcoes.ESQUERDA)
+mover(Direcoes.DIREITA)
+mover(Direcoes.ACIMA)
+mover(Direcoes.ABAIXO)
+```
