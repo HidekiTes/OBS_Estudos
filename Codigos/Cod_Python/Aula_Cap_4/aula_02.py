@@ -1,7 +1,10 @@
 '''
 Data e hora atual (now), com Unix Timestamp e Timezone diferente (pytz)
 
+<<<<<<< HEAD
+=======
 Criando datas com módulo datetime
+>>>>>>> refs/remotes/origin/main
 datetime(ano, mês, dia)
 datetime(ano, mês, dia, horas, minutos, segundos)
 datetime.strptime('DATA', 'FORMATO')

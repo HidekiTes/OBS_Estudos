@@ -1,6 +1,9 @@
 '''
+<<<<<<< HEAD
+=======
 Criando data e hora em Python com módulo datetime
 
+>>>>>>> refs/remotes/origin/main
 Criando datas com módulo datetime
 datetime(ano, mês, dia)
 datetime(ano, mês, dia, horas, minutos, segundos)
@@ -23,4 +26,8 @@ data_str_fmt = '%d/%m/%Y'
 
 # data = datetime(2022, 4, 20, 7, 49, 23)
 data = datetime.strptime(data_str_data, data_str_fmt)
+<<<<<<< HEAD
 print(data)
+=======
+print(data)
+>>>>>>> refs/remotes/origin/main
